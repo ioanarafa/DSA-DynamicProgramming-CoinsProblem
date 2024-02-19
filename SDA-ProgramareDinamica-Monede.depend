@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691666096 source:c:\users\user\desktop\sda-tot\programaredinamica\sda-programaredinamica-monede\main.c
+	<stdio.h>
+	<stdlib.h>
+
